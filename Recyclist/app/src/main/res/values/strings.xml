@@ -1,0 +1,244 @@
+<resources>
+    <string name="app_name">RECYCLIST</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="Home">HOME</string>
+    <string name="AboutText">Recyclist is constantly seeking collaborators that will contribute to a better world. By providing solutions that offer environmental benefits, as well as cost benefits to those pursuing alternative energy solutions, we hope to do our bit to lessen the impact on our environment and climate.</string>
+    <string name="LegalText">Recyclist is not liable for anything. All rights reserved.</string>
+    <string name="ContactText">
+    55 East Broad St.\n
+    Titusville, FL 32796\n
+    info@recyclist.us\n
+    (1-321-383-3345)
+    </string>
+    <string name="LogIn">LOG IN</string>
+    <string name="LogOut">LOG OUT</string>
+
+
+    <!-- Strings related to login,register -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_na_sign_up">Don\'t have an account? Register</string>
+    <string name="action_sign_up">Register</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_na_sign_in">Already have an account? Sign In</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_login">Sign In</string>
+    <string name="title_activity_register">Register</string>
+    <!--test ad-->
+    <string name="banneradunitid">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="prompt_firstname">First Name</string>
+    <string name="prompt_lastname">Last Name</string>
+    <string name="prompt_compname">Company Name</string>
+    <string name="prompt_compinfo">Company Information</string>
+    <string name="prompt_comppurp">Company Purpose</string>
+    <string name="prompt_complicnum">License Number</string>
+    <string name="emailnot">I want to receive email notifications</string>
+    <string name="reghead">Please enter the following information:</string>
+    <string name="title_activity_legal">LEGAL</string>
+    <string name="title_activity_about">ABOUT</string>
+    <string name="title_activity_contact">CONTACT US</string>
+    <string name="title_activity_comminfo">COMMUNITY INFO</string>
+    <string name="title_activity_servprov">SERVICE PROVIDERS</string>
+    <string name="title_activity_reslistings">RESOURCE LISTINGS</string>
+    <string name="title_activity_userlistings">YOUR LISTINGS</string>
+    <string name="AboutQuote">\"Protecting people, animals, plants, and minerals by offering a system to reverse global warming and eliminate waste.\"</string>
+    <string name="AboutMission">OUR MISSION</string>
+    <string name="CommInfoText">Welcome! Resources will be provided here to assist local communities and help residents find where to recycle any leftover or excess materials.</string>
+    <string name="CommInfoDir">Please select a state below to see a list of area landfills:</string>
+    <string name="NewsFeedlabel">NEWS FEED</string>
+    <string name="prompt_confirm">Confirm password</string>
+    <string name="prompt_compphone">Phone number</string>
+    <string name="prompt_compaddress">Address</string>
+    <string name="prompt_compcity">City</string>
+    <string name="prompt_compstate">State</string>
+    <string name="prompt_compzip">Zip Code</string>
+    <string name="title_activity_createlisting">CREATE NEW LISTING</string>
+    <string name="title_activity_yourlistings">Your Listings</string>
+    <string name="action_create_listing">CREATE LISTING</string>
+    <string name="prompt_title">Title</string>
+    <string name="prompt_content">Description</string>
+    <string-array name="states_array">
+        <item>"--Select a State--"</item>
+        <item>AL</item>
+        <item>AR</item>
+        <item>AZ</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string-array name="statesfull_array">
+    <item>"--Select a State--"</item>
+        <item>Alabama</item>
+        <item>Arkansas</item>
+        <item>Arizona</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>District of Columbia</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Iowa</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Maine</item>
+        <item>Maryland</item>
+        <item>Massachusetts</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+        <item>Missouri</item>
+        <item>Montana</item>
+        <item>Nebraska</item>
+        <item>Nevada</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>New York</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Ohio</item>
+        <item>Oklahoma</item>
+        <item>Oregon</item>
+        <item>Pennsylvania</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>South Dakota</item>
+        <item>Tennessee</item>
+        <item>Texas</item>
+        <item>Utah</item>
+        <item>Vermont</item>
+        <item>Virginia</item>
+        <item>Washington</item>
+        <item>West Virginia</item>
+        <item>Wisconsin</item>
+        <item>Wyoming</item>
+    </string-array>
+    <string-array name="tags">
+        <item>aluminum</item>
+        <item>amber cullet</item>
+        <item>appliances</item>
+        <item>automotive</item>
+        <item>batteries</item>
+        <item>bimetal containers</item>
+        <item>clothes</item>
+        <item>colored ledger</item>
+        <item>compostables</item>
+        <item>computer paper</item>
+        <item>concrete</item>
+        <item>corrugated cardboard</item>
+        <item>electronics</item>
+        <item>flint</item>
+        <item>food</item>
+        <item>food scraps</item>
+        <item>furniture</item>
+        <item>glass</item>
+        <item>green cullet</item>
+        <item>HDPE</item>
+        <item>lab equipment</item>
+        <item>LDPE</item>
+        <item>liquids</item>
+        <item>mattress</item>
+        <item>medical</item>
+        <item>metals</item>
+        <item>miscellaneous waste paper</item>
+        <item>mixed plastic</item>
+        <item>mixed waste paper</item>
+        <item>newspaper</item>
+        <item>non-ferrous metals</item>
+        <item>organic scraps</item>
+        <item>paint</item>
+        <item>PET</item>
+        <item>plastic</item>
+        <item>polypropelene</item>
+        <item>polysytrene</item>
+        <item>PVC</item>
+        <item>salvage</item>
+        <item>tab cards</item>
+        <item>tin</item>
+        <item>wood</item>
+        <item>yard trimmings</item>
+    </string-array>
+    <string-array name="costs">
+        <item>All</item>
+        <item>0–50</item>
+        <item>50–100</item>
+        <item>100–200</item>
+        <item>200+</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_home">HOME</string>
+    <string name="action_search">SEARCH</string>
+    <string name="action_aboutus">ABOUT US</string>
+    <string name="action_resources">RESOURCES</string>
+    <string name="AboutMissionText">Increase recycling, save energy, protect natural resources, and create economic prosperity by facilitating the exchange of recyclable materials.</string>
+    <string name="whowearetext">We are solid waste experts who believe in creating economic prosperity through environmental stewardship. We have decades of experience in landfill management, recycled materials markets and environmental protection.\n\nWe realized that a major barrier to greater use of recyclable materials was finding consistent supply and demand for buyers and sellers, so we created the Recyclist exchange to solve that dilemma.</string>
+    <string name="doinggoodtext">In our experience, we\'ve seen that people can do well economically by doing good things for the environment, like recycling. We\'re here to make that situation a reality for more people and businesses.\n\nIf you need to buy, sell or offload recyclable materials for your business, you\'ve come to the right place. We also provide recycling and waste management resources for individuals and businesses.</string>
+    <string name="becomememtext">Members receive exclusive benefits and our basic membership is free. Your membership gives you a personal account where you can post contact information, list items for sale, contact sellers, be contacted by buyers and more. Become a member of the largest recyclable material exchange in the U.S. today!</string>
+    <string name="title_activity_viewlisting">Listings</string>
+    <string name="Account">MY ACCOUNT</string>
+    <string name="title_activity_editaccount">Account Information</string>
+    <string name="pllo">TO INCLUDE PRIVATE LISTINGS, </string>
+    <string name="ctpic">ctpic</string>
+    <string name="prompt_searchfor">Search For...</string>
+    <string name="ardtext">Got something you aren\'t sure how or where to recycle? Search for recycling centers in your community on your specific item at http://americarecyclesday.org/.</string>
+    <string name="fctext">Want to join the global network of people giving out and also getting stuff for free? Check to see if your community is participating at https://www.freecycle.org/.</string>
+    <string name="istext">Have a surplus of furniture or equipment that needs to be discarded? Why not see if they can be given to those in desperate need at http://irnsurplus.com/.</string>
+    <string name="rctext">Have something you want to see if you can recycle? Search for local recycling centers and businesses in your city and state at http://www.recyclingcenters.org/.</string>
+    <string name="pctext">Enter your location below to find where to drop off your leftover paint. For more information, please visit the PaintCare Site Locator at http://www.paintcare.org/.</string>
+    <string name="prompt_cost">Cost</string>
+    <string name="title_activity_editlisting">Edit Listing</string>
+</resources>
