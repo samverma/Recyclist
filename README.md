@@ -1,2 +1,2 @@
 # Recyclist
-Mobile app for class project 
+Mobile app
